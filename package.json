@@ -1,0 +1,18 @@
+{
+  "name": "com.paku.data-controller-lite",
+  "version": "1.0.0",
+  "displayName": "Data Controller Lite",
+  "description": "Simple PlayerPrefs based Data Controller.",
+  "unity": "2020.1",
+  "documentationUrl": "https://github.com/PakuBK/data-controller-lite-unity",
+  "licensesUrl": "https://opensource.org/licenses/MIT",
+  "keywords": [
+    "data"
+  ],
+  "author": {
+    "name": "Paku",
+    "email": "pakudevelops@gmail.com",
+    "url": "https://github.com/PakuBK"
+  },
+  "type": "tool"
+}
